@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Luca Leresche 
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on FrontWeb
